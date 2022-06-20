@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(148, 224, 160);
+    margin: auto;
+}
+
+#game {
+    display: inherit;
+    text-align: center;
+    padding: auto;
+    border-radius: 10px;
+
+}
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 10px;
+    background-color:rgba(140, 141, 140, 0.42);
+    border-radius: 5px;
+}
